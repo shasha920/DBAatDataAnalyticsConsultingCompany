@@ -2,7 +2,7 @@
 
 As a role of database administrator at a data analytics consulting company. Assigned to a project where need to setup, test and optimize the data platform. The platform contains different on premises database servers like MySQL, PostgreSQL, and cloud-based databases like IBM DB2. Job is to configure, tune, secure, backup and monitor those databases and keep them running at peak performance.
 
-As three-part:\
+As three-part:
 
 Part 1: Work with PostgreSQL server and perform the User Management tasks and handle the backup of the databases.
 
