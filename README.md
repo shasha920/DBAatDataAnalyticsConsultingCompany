@@ -9,3 +9,5 @@ Part 1: Work with PostgreSQL server and perform the User Management tasks and ha
 Part 2: Work with MySQL server and perform the tasks like configuration check, recovery of data. Will use indexing to improve the database performance. Will identify which storage engines are supported by the server and which table uses which storage engine.
 
 Part 3: Work with DataSette server and perform the tasks like restoration of data, index creation to improve the query performance. Will create views to make queries easier to write. 
+
+This lab also have some data restoration operation in using PGADMIN GUI and DataSette GUI.
