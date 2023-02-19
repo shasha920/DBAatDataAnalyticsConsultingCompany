@@ -10,4 +10,4 @@ Part 2: Work with MySQL server and perform the tasks like configuration check, r
 
 Part 3: Work with DataSette server and perform the tasks like restoration of data, index creation to improve the query performance. Will create views to make queries easier to write. 
 
-This lab also have some data restoration operation in using PGADMIN GUI and DataSette GUI.
+This lab also have some data restoration operation using in PGADMIN GUI and DataSette GUI.
